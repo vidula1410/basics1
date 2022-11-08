@@ -53,6 +53,15 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - assets/images/pesuio.jpeg
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: assets/font/Lat/Lato-Black.ttf
+#      asset: assets/fonts/Lat/Lat-Italic.ttf
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
